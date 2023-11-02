@@ -1,0 +1,2 @@
+allow vl53l1_daemon_main sysfs:file r_file_perms;
+rw_dir_file(vl53l1_daemon_main, vendor_persist_camera_file)
